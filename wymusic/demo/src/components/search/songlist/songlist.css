@@ -1,0 +1,21 @@
+.songitem{
+    display: flex;
+    line-height: 20px;
+}
+.songitem .index{
+    font-size: 12px;
+    padding: 17px;
+}
+.songitem ul li:nth-child(2){
+    font-size: 8px;
+    color: #5F6368;
+    margin-top: 3px;
+}
+.songitem ul li:nth-child(1){
+    margin-top: 8px;
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 80%;
+}

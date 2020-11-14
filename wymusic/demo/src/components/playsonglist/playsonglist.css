@@ -1,0 +1,59 @@
+.song-header .iconfont{
+    margin: 15px;
+}
+
+.bg-blur {
+    width: 100%;
+    height: 180px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    -webkit-filter: blur(15px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px);
+}
+.song-header{
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+    margin-top: -100px;
+    position: absolute;
+    left: 0;
+    top: 102px;
+}
+.song-header .coverimg{
+    width: 100px;
+    height: 100px;
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    margin: 15px;
+    font-size: 10px;
+   
+}
+.song-header .coverimg .iconfont{
+    font-size: 12px;
+    margin-left: 30px;
+    margin-top: -10px;
+    margin-right: 1px;
+}
+.song-header .body{
+    display: flex;
+}
+.song-header .body .word{
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 11px;
+    font-weight: 500;
+}
+.song-header .body .word span{
+    font-size: 8px;
+    font-weight: 100;
+}
+.play-song-list{
+    position: absolute;
+    top: 175px;
+    background-color: white;
+    width: 100%;
+}

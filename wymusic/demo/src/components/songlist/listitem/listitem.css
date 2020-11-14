@@ -1,0 +1,24 @@
+.listitem{
+    margin: 11px;
+    width: 43%;
+    height: 170px;
+    color: black;
+    font-size: 12px;
+    background-size: 100% 80%;
+    background-repeat: no-repeat;
+}
+.headset{
+    font-size: 12px;
+    color: white;
+    margin-left: 107px;
+}
+.listitem .count{
+    margin-top: -12px;
+    color: white;
+}
+.listitem .title{
+    margin-top: 110px;
+    background-image: ;
+    font-size: 11px;
+    line-height: 15px;
+}

@@ -1,0 +1,15 @@
+.globalrank .time{
+    font-size: 3px;
+    color: white;
+    margin-top: 85px;
+}
+.globalrank{
+    margin-bottom: 20px;
+    width: 30%;
+    background-size: 100% 100px;
+    background-repeat: no-repeat;
+}
+.globalrank .title{
+    margin-top: 12px;
+    font-size: 11px;
+}

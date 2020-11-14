@@ -1,0 +1,86 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "159265",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "1941086",
+      "name": "歌单",
+      "font_class": "gedan",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    },
+    {
+      "icon_id": "2217011",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "3143062",
+      "name": "排行",
+      "font_class": "paihang",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "3305903",
+      "name": "右箭头",
+      "font_class": "arrow-right",
+      "unicode": "e508",
+      "unicode_decimal": 58632
+    },
+    {
+      "icon_id": "4228624",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "8836765",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "9569654",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "10119780",
+      "name": "音乐",
+      "font_class": "yinle1",
+      "unicode": "e765",
+      "unicode_decimal": 59237
+    },
+    {
+      "icon_id": "15226727",
+      "name": "斑马线",
+      "font_class": "banmaxian",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "16713824",
+      "name": "歌单",
+      "font_class": "gedan1",
+      "unicode": "e74a",
+      "unicode_decimal": 59210
+    }
+  ]
+}

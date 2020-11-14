@@ -1,0 +1,11 @@
+.globalranktitle{
+    font-size: 15px;
+    line-height: 60px;
+    font-weight: 600;
+    padding-left: 10px;
+}
+.globalrankitem{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

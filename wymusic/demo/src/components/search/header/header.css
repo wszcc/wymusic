@@ -1,0 +1,23 @@
+.search-header{
+    height: 44px;
+    background-color: rgb(253, 249, 249);
+    width: 100%;
+    display: flex;
+}
+.inputitem{
+    flex: 1;
+}
+.inputitem input{
+    width: 90%;
+    height: 30px;
+    border: none;
+    border-bottom: 1px solid white;
+    padding-top: 9px;
+    color: white;
+}
+.iconfont{
+    width: 60px;
+    color: white;
+    text-align: center;
+    line-height: 44px;
+}

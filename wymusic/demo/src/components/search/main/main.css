@@ -1,0 +1,10 @@
+.tagbox{
+    display: flex;
+    flex-wrap: wrap;
+}
+.hot-search{
+    font-size: 12px;
+    color: #4E2739;
+    margin-top: 20px;
+    margin-left: 10px;
+}

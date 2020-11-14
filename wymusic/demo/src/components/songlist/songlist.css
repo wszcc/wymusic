@@ -1,0 +1,16 @@
+.home-songlist{
+    width: 100%;
+    background-color: red;
+    height: 50px;
+    line-height: 50px;
+    color: white;
+    display: flex;
+    font-size: 14px;
+}
+.home-songlist .iconfont{
+    padding-top: 3px;
+}
+.songlistitem{
+    display: flex;
+    flex-wrap: wrap;
+}

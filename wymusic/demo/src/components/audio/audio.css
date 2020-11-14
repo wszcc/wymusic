@@ -1,0 +1,71 @@
+.audio{
+    color: black;
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    left: 0;
+    line-height: 60px;
+    top: 580px;
+    font-size: 30px;
+    /* border: 1px solid black; */
+    background-color: white;
+    display: flex;
+}
+.audio div:nth-child(1){
+    border-radius: 50%;
+    width: 50px;
+    min-width: 50px;
+    height: 50px;
+    overflow: hidden;
+    margin: 5px;
+}
+.audio div:nth-child(1) img{
+    width: 100%;
+    height: 100%;
+}
+
+.audio div:nth-child(2) ul li:nth-child(1){
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    line-height: 40px;
+    font-size: 15px;
+}
+.audio div:nth-child(2) ul li:nth-child(2){
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 70%;
+    font-size: 8px;
+    line-height: 15px;
+    color: #8F8273;
+}
+.audio div:nth-child(3){
+    position: absolute;
+    left: 250px;
+    color: black;
+    font-size: 20px;
+    border-radius: 50%;
+    border: black 1px solid;
+    height: 31px;
+    line-height: 31px;
+    text-align: center;
+    font-size: 15px;
+    width: 32px;
+    margin-top: 16px;
+}
+.audio div:nth-child(3) .iconfont{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    line-height: 31px;
+}
+.audio div:nth-child(4){
+    color: black;
+    position: absolute;
+    left: 295px;
+    font-size: 25px;
+    margin-top: 12px;
+}
